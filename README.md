@@ -1,6 +1,6 @@
 # snaprides
 
-A new Flutter project.
+A Bike renting application 
 
 ## Getting Started
 
